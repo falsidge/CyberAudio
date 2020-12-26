@@ -176,7 +176,7 @@ for file_name in new_paths:
                 else:
                     out_file_name = str(i)
                 if args.opus:
-                    out_file_name += ".opus"
+                    out_file_name += ".ogg"
                 else:
                     out_file_name += ".wem"
             
